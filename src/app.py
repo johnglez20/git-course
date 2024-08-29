@@ -1,2 +1,4 @@
-def suma(a,b):
-    return a+b
+from flask import flask
+
+app = flask(__name__)
+
