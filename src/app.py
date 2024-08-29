@@ -10,3 +10,6 @@ def index():
 def suma(a: int, b: int):
     
     return a+b
+
+def saludar(a,b):
+    return a*b
